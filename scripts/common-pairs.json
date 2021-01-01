@@ -1,0 +1,3262 @@
+[
+  {
+    "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
+    "sushiswapPair": "0x397FF1542f962076d0BFE58eA045FfA2d347ACa0",
+    "token0_symbol": "USDC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11",
+    "sushiswapPair": "0xC3D03e4F041Fd4cD388c549Ee2A29a9E5075882f",
+    "token0_symbol": "DAI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0xAE461cA67B15dc8dc81CE7615e0320dA1A9aB8D5",
+    "sushiswapPair": "0xAaF5110db6e744ff70fB339DE037B990A20bdace",
+    "token0_symbol": "DAI",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB6909B960DbbE7392D405429eB2b3649752b4838",
+    "sushiswapPair": "0x998BF04788C1c631C0e02BD1eED3D945308Bf0a3",
+    "token0_symbol": "BAT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xBb2b8038a1640196FbE3e38816F3e67Cba72D940",
+    "sushiswapPair": "0xCEfF51756c56CeFFCA006cD410B03FFC46dd3a58",
+    "token0_symbol": "WBTC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x43AE24960e5534731Fc831386c07755A2dc33D47",
+    "sushiswapPair": "0xA1d7b2d891e3A1f9ef4bBC5be20630C2FEB1c470",
+    "token0_symbol": "SNX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xa2107FA5B38d9bbd2C461D6EDf11B11A50F6b974",
+    "sushiswapPair": "0xC40D16476380e4037e6b1A2594cAF6a6cc8Da967",
+    "token0_symbol": "LINK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xC2aDdA861F89bBB333c90c492cB837741916A225",
+    "sushiswapPair": "0xBa13afEcda9beB75De5c56BbAF696b880a5A50dD",
+    "token0_symbol": "SymbolError",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+    "uniswapPair": "0xc5be99A02C6857f9Eac67BbCE58DF5572498F40c",
+    "sushiswapPair": "0xCb2286d9471cc185281c4f763d34A962ED212962",
+    "token0_symbol": "WETH",
+    "token1_symbol": "AMPL",
+    "token0_decimals": 18,
+    "token1_decimals": 9
+  },
+  {
+    "token0": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xc12c4c3E0008B838F75189BFb39283467cf6e5b3",
+    "sushiswapPair": "0x67f3F90D88D0dD6b6ebdA2e92e5E7C0147514Ad3",
+    "token0_symbol": "0xBTC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xf80758aB42C3B07dA84053Fd88804bCB6BAA4b5c",
+    "sushiswapPair": "0xF1F85b2C54a2bD284B1cf4141D64fD171Bd85539",
+    "token0_symbol": "sUSD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x01962144D41415cCA072900Fe87Bbe2992A99F10",
+    "sushiswapPair": "0x47FF5a2ad7A36cfCF7867539f5851A4A573Bf4e1",
+    "token0_symbol": "XOR",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x343FD171caf4F0287aE6b87D75A8964Dc44516Ab",
+    "sushiswapPair": "0xEF4F1D5007B4FF88c1A56261fec00264AF6001Fb",
+    "token0_symbol": "PNK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB27dE0bA2abFbFdf15667a939f041b52118aF5Ba",
+    "sushiswapPair": "0x1c8dB04C881e626672E590aCa139c55e0686e93e",
+    "token0_symbol": "UBT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8A9C67fee641579dEbA04928c4BC45F66e26343A",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x2b6A25f7C54F43C71C743e627F5663232586C39F",
+    "sushiswapPair": "0xF1360C4ae1cead17B588ec1111983d2791B760d3",
+    "token0_symbol": "JRT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
+    "uniswapPair": "0xf0936E53D924d7F442A04c038082A46c77ECc8d8",
+    "sushiswapPair": "0x10d11d511019f85F977A553ec5A6A421D038efDB",
+    "token0_symbol": "WETH",
+    "token1_symbol": "RCN",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x408e41876cCCDC0F92210600ef50372656052a38",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8Bd1661Da98EBDd3BD080F0bE4e6d9bE8cE9858c",
+    "sushiswapPair": "0x611CDe65deA90918c0078ac0400A72B0D25B9bb1",
+    "token0_symbol": "REN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x3041CbD36888bECc7bbCBc0045E3B1f144466f5f",
+    "sushiswapPair": "0xD86A120a06255Df8D4e2248aB04d4267E23aDfaA",
+    "token0_symbol": "USDC",
+    "token1_symbol": "USDT",
+    "token0_decimals": 6,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x17eE04ec364577937855D2e9a7adD8d2a957E4Fa",
+    "sushiswapPair": "0x5A459D168a55071Dd1Ad60d7393AFbdb72c4ccaB",
+    "token0_symbol": "ETHMNY",
+    "token1_symbol": "WETH",
+    "token0_decimals": 2,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x960b236A07cf122663c4303350609A66A7B288C0",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xfa19de406e8F5b9100E4dD5CaD8a503a6d686Efe",
+    "sushiswapPair": "0x378b4c5f2a8a0796A8d4c798Ef737cF00Ae8e667",
+    "token0_symbol": "ANT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x88D97d199b9ED37C29D846d00D443De980832a22",
+    "sushiswapPair": "0x001b6450083E531A5a7Bf310BD2c1Af4247E23D4",
+    "token0_symbol": "UMA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8Fb8707ef6b66e999aC09A5f96d6ccCD250bCBAd",
+    "sushiswapPair": "0x02C6260cE42Ea5cD055911ed0D4857eCD4583740",
+    "token0_symbol": "SPANK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
+    "sushiswapPair": "0x06da0fd433C1A5d7a4faa01111c044910A184553",
+    "token0_symbol": "WETH",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xf421c3f2e695C2D4C0765379cCace8adE4a480D9",
+    "sushiswapPair": "0xA75F7c2F025f470355515482BdE9EFA8153536A8",
+    "token0_symbol": "BAND",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xaB3F9bF1D81ddb224a2014e98B238638824bCf20",
+    "sushiswapPair": "0x5E63360E891BD60C69445970256C260b0A6A54c6",
+    "token0_symbol": "LEND",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x80A5159cAFAeaDD229a9EEe8C022CAB847c0947c",
+    "sushiswapPair": "0x161388DEb2c1147D5bEd3003277d59d479d5a228",
+    "token0_symbol": "TRYB",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xba65016890709dBC9491Ca7bF5DE395B8441DC8B",
+    "sushiswapPair": "0x6f58A1Aa0248A9F794d13Dc78E74Fc75140956D7",
+    "token0_symbol": "RSR",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
+    "uniswapPair": "0x63E7Aa05B78144013Cfa4b23C9b61599D0a29023",
+    "sushiswapPair": "0xEA2B2aBEc815a2782b25EA2B3d998e1A5EaFC259",
+    "token0_symbol": "WETH",
+    "token1_symbol": "2KEY",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7",
+    "sushiswapPair": "0x9Fc5b87b74B9BD239879491056752EB90188106D",
+    "token0_symbol": "STAKE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+    "uniswapPair": "0xfd29420060464b69f2e1804b685354c31687121e",
+    "sushiswapPair": "0x04e1c5F32941cFdF5A593E2345C52eDa2984cEd6",
+    "token0_symbol": "WETH",
+    "token1_symbol": "COL",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+    "uniswapPair": "0x48E313460DD00100e22230e56E0A87B394066844",
+    "sushiswapPair": "0x742c15d71eA7444964BC39b0eD729B3729ADc361",
+    "token0_symbol": "WETH",
+    "token1_symbol": "OMG",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xf67041758D3B6e56D6fDafA5B32038302C3634DA",
+    "uniswapPair": "0x0FB402016ae5Aa800695dd782807fD8197000f67",
+    "sushiswapPair": "0x53BB862238b852f387C3f8b8008E4622548E82D1",
+    "token0_symbol": "WETH",
+    "token1_symbol": "TST",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x3006c0D2A6e54d3590a44384c6F066c9cF9a4ceA",
+    "sushiswapPair": "0xd989f9ACA3Dff9dB16D3B0ceBc252596bB8AA63E",
+    "token0_symbol": "MATH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xFCB910d871d7e94F5A566B7b32Fb2B19583c09D7",
+    "sushiswapPair": "0x51dcB8D09FAc22C974cB2EF169310cC501063F46",
+    "token0_symbol": "LCX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xB20bd5D04BE54f870D5C0d3cA85d82b34B836405",
+    "sushiswapPair": "0x055CEDfe14BCE33F985C41d9A1934B7654611AAC",
+    "token0_symbol": "DAI",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "token1": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+    "uniswapPair": "0xF12C086347a328F3a000d892f23875d886d530cF",
+    "sushiswapPair": "0x518d6CE2D7A689A591Bf46433443C31615b206C5",
+    "token0_symbol": "WBTC",
+    "token1_symbol": "renBTC",
+    "token0_decimals": 8,
+    "token1_decimals": 8
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+    "uniswapPair": "0x81FbEf4704776cc5bBa0A5dF3a90056d2C6900B3",
+    "sushiswapPair": "0x0289B9CD5859476Ce325aCa04309D36adDCEbDAA",
+    "token0_symbol": "WETH",
+    "token1_symbol": "renBTC",
+    "token0_decimals": 18,
+    "token1_decimals": 8
+  },
+  {
+    "token0": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xf1Ff4c672DaBf9AEa4813DdA6De66b860b0970b4",
+    "sushiswapPair": "0x2D2Bc284c24b5deBE489Da59557862e0aF884F23",
+    "token0_symbol": "BLT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x034Ac58393eCc9A687ce56527d617AC5661d3e97",
+    "sushiswapPair": "0xFD58EadE18B473CEfe6D6EA9438aE0E31e22C2b3",
+    "token0_symbol": "TRXC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 0,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xE6C804FF4eC692E6808C0d032CdbC03772FC4D42",
+    "sushiswapPair": "0xAc7139EA81c650A1472992890df8211828937937",
+    "token0_symbol": "renZEC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xeC6a6b7dB761A5c9910bA8fcaB98116d384b1B85",
+    "sushiswapPair": "0xfCEAAf9792139BF714a694f868A215493461446D",
+    "token0_symbol": "TRU",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x7cD0378010711CB72a6ca35f09D5Da2094061D9c",
+    "sushiswapPair": "0x97a707e8F4cda8b0cFb13f20ECC576096F6eBed2",
+    "token0_symbol": "PAX",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xa6890aC41e3a99A427bef68398Bf06119fB5e211",
+    "sushiswapPair": "0xA179d8F12F99CEA60700f32F602a57c25F1f6e89",
+    "token0_symbol": "ZCN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 10,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xe240496565eB09bf4402732872ea4D76C0c1aF05",
+    "sushiswapPair": "0x209E2f044bD334c53451900c576aB18e8ceA9B16",
+    "token0_symbol": "SENT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xCFfDdeD873554F362Ac02f8Fb1f02E5ada10516f",
+    "sushiswapPair": "0x31503dcb60119A812feE820bb7042752019F2355",
+    "token0_symbol": "COMP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
+    "uniswapPair": "0x50e3D53b4a22e94ee1cE5c3A852D94d145d5852e",
+    "sushiswapPair": "0x5e9B033F409Be3d2eCF719F50209198AedD33ABC",
+    "token0_symbol": "WETH",
+    "token1_symbol": "FNT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+    "uniswapPair": "0x5E64CD6f84D0eE2Ad2a84CadC464184e36274E0c",
+    "sushiswapPair": "0x6367eEd0ce97f8AB3C237674ce50D0b746901F33",
+    "token0_symbol": "WETH",
+    "token1_symbol": "UNC",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x178c820f862B14f316509ec36b13123DA19A6054",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xdc7d8cC3a22FE0eC69770E02931f43451b7B975e",
+    "sushiswapPair": "0x7A8c6B6e44Cc12Df550096F88A5ba746c38eD9b0",
+    "token0_symbol": "EWTB",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xD7F8032777C50aFD2e7AFa41912a4d8038127271",
+    "uniswapPair": "0x37B7F597341e4e56403Ca6215376c2fD24316733",
+    "sushiswapPair": "0x046D8c308Fd8b1D287FEcEc297dea805A6d925F0",
+    "token0_symbol": "WETH",
+    "token1_symbol": "MUA",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "uniswapPair": "0x64EC8503585817E64c8a82e41D3f63B4eC52820f",
+    "sushiswapPair": "0x0Cfe7968e7c34A51217a7C9b9dc1690F416E027e",
+    "token0_symbol": "cDAI",
+    "token1_symbol": "DAI",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8Cb77eA869DeF8f7fdEab9E4dA6cF02897bbF076",
+    "sushiswapPair": "0x364248b2f1f57C5402d244b2D469A35B4C0e9dAB",
+    "token0_symbol": "AKRO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x90704Ac59E7E54632b0CC9d22573aeCD7eB094ad",
+    "sushiswapPair": "0x0be88ac4b5C81700acF3a606a52a31C261a24A35",
+    "token0_symbol": "CRO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xEF9Ac6348A04Ac07C8Cfb19FE19827f1C92d7512",
+    "sushiswapPair": "0x75e66d062a2a8BE5c99d71db11d72aB3B82bA8b3",
+    "token0_symbol": "KEY",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x20bf12A7bdb6d7B84069fb3b939892A301C981d1",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x3Ee52712f5454CbE7dbC1FB8Bf613b0234b80983",
+    "sushiswapPair": "0x561aeF36a2237F86696E15B131f7FF3e141FeAB2",
+    "token0_symbol": "CZZ",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xB72B31907C1C95F3650b64b2469e08EdACeE5e8F",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA1D836Cc39E3b8D6d128134b3356ff6360BE13b4",
+    "sushiswapPair": "0x954E5e6B11f3AdBD1FFFa90e4B718103938a3468",
+    "token0_symbol": "vBZRX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x23bFf8ca20AAc06EFDf23cEe3B8ae296A30Dfd27",
+    "sushiswapPair": "0xFcff3b04C499A57778ae2CF05584ab24278A7FCb",
+    "token0_symbol": "wNXM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x2fDbAdf3C4D5A8666Bc06645B8358ab803996E28",
+    "sushiswapPair": "0x088ee5007C98a9677165D78dD2109AE4a3D04d0C",
+    "token0_symbol": "YFI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+    "uniswapPair": "0x86fEf14C27C78dEAEb4349FD959CAA11fc5B5D75",
+    "sushiswapPair": "0x53aaBCcAE8C1713a6a150D9981D2ee867D0720e8",
+    "token0_symbol": "WETH",
+    "token1_symbol": "RARI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x335fC34AdbC1c12f3F731c3EeC1FD27F36DAef4A",
+    "sushiswapPair": "0x5AfDb161a974eA308FE12A43b7d2080734c96BD9",
+    "token0_symbol": "PKG",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8973Be4402bf0a39448f419c2D64bD3591Dd2299",
+    "sushiswapPair": "0xF727fC12F07f510df7F5169F5DC4ca91B9A05753",
+    "token0_symbol": "YFII",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+    "uniswapPair": "0x722885caB8be10B27F359Fcb225808fe2Af07B16",
+    "sushiswapPair": "0xaa500101C73065f755Ba9b902d643705EF2523E3",
+    "token0_symbol": "WETH",
+    "token1_symbol": "FNX",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xcFB8CF118B4F0ABB2E8CE6DBEb90D6bC0A62693D",
+    "sushiswapPair": "0x8731e5a3483c505169cb0fF68e1d52f6f279Adf6",
+    "token0_symbol": "TEND",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+    "uniswapPair": "0x526914CE1611849b9e1133Ff8F8b03A8fAa295Cb",
+    "sushiswapPair": "0xD3f85d18206829f917929BbBF738C1e0CE9AF7fC",
+    "token0_symbol": "WETH",
+    "token1_symbol": "CRD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4Dc02e1bB2EC1CE4C50C351e6e06505E7B1dCe8d",
+    "sushiswapPair": "0xBb7aB09971E56Aaf248dCc6C3DF865aF69D97372",
+    "token0_symbol": "DIA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xF04543fBF20DAEE9B0357db966428EF2A4Ae0F5A",
+    "sushiswapPair": "0x7825dE5586E4d2FD04459091bbe783fa243E1bf3",
+    "token0_symbol": "FTX Token",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xddF9b7a31b32EBAF5c064C80900046C9e5b7C65F",
+    "sushiswapPair": "0xf169CeA51EB51774cF107c88309717ddA20be167",
+    "token0_symbol": "CREAM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB328eB3175B5440dff5B158205A9906a97c37C51",
+    "sushiswapPair": "0xd281aF557Aa16b6d49647B204e16c1083069a7Bb",
+    "token0_symbol": "PERX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x615Cc08dF9084e3faC80FE19045A55612185B6a4",
+    "sushiswapPair": "0x6D0083Fb8c8d4c62441FeE5B5be2CC21182b5FE3",
+    "token0_symbol": "TUSD",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+    "uniswapPair": "0xd4d055fcE4948dd9925000967A30933F6bD0FB03",
+    "sushiswapPair": "0xD626015EdfBBEBA3DEF1d764a162a0b4D7bF22F0",
+    "token0_symbol": "WETH",
+    "token1_symbol": "ETHV",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0xd876beA7F5121a8E21459224e58AeC6C933A16e9",
+    "sushiswapPair": "0xC965BC2cf23D54ccF41a7d3aF10572580E9B8078",
+    "token0_symbol": "DIA",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1d6432AEfeAE2c0Ff1393120541863822a4E6Fa7",
+    "sushiswapPair": "0xc8703a9c40eDb9915C815f29762827f6242278bf",
+    "token0_symbol": "YFL",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x3C442baB170F19Dd40D0b1a405C9d93b088B9332",
+    "sushiswapPair": "0x72075636be2603b91BE1cDA70fAB6ef21cA86989",
+    "token0_symbol": "POWR",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xD3772A963790feDE65646cFdae08734A17cd0f47",
+    "sushiswapPair": "0x9cBc2A6Ab3f10eDF7d71C9cf3B6BdB7eE5629550",
+    "token0_symbol": "ADX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xCc3d1EceF1F9fD25599dbeA2755019DC09db3c54",
+    "sushiswapPair": "0x117d4288B3635021a3D612FE05a3Cbf5C717fEf2",
+    "token0_symbol": "SRM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "uniswapPair": "0x3dA1313aE46132A397D90d95B1424A9A7e3e0fCE",
+    "sushiswapPair": "0x58Dc5a51fE44589BEb22E8CE67720B5BC5378009",
+    "token0_symbol": "WETH",
+    "token1_symbol": "CRV",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+    "uniswapPair": "0x5DFbe95925FFeb68f7d17920Be7b313289a1a583",
+    "sushiswapPair": "0x17b3C19Bd640a59E832AB73eCcF716CB47419846",
+    "token0_symbol": "WETH",
+    "token1_symbol": "MEME",
+    "token0_decimals": 18,
+    "token1_decimals": 8
+  },
+  {
+    "token0": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x5741A1CEff6148C8aaCA0F0456C03C88817E05F5",
+    "sushiswapPair": "0x8283DD24f8D8E7b083e2855a4c3EA1A7Feba08C2",
+    "token0_symbol": "XIOT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 3,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+    "token1": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+    "uniswapPair": "0xaAD22f5543FCDaA694B68f94Be177B561836AE57",
+    "sushiswapPair": "0x3E5e560DB64c87e71260878E58D74406e6D693aF",
+    "token0_symbol": "sUSD",
+    "token1_symbol": "$BASED",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB1A824a6Caf1f789Aa7ca1072E36E83Cd62bA3ee",
+    "sushiswapPair": "0x8C9654fb23afF737f11053974571B1ACE6Fa5175",
+    "token0_symbol": "LAYER",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x9346C20186D1794101B8517177A1b15c49c9ff9b",
+    "sushiswapPair": "0x382c4a5147Fd4090F7BE3A9Ff398F95638F5D39E",
+    "token0_symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA5904961f61baE7c4dD8478077556c91BF291cFD",
+    "sushiswapPair": "0x95b54C8Da12BB23F7A5F6E26C38D04aCC6F81820",
+    "token0_symbol": "YAMv2",
+    "token1_symbol": "WETH",
+    "token0_decimals": 24,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x889eFB523cc39590B8483EB9491890AC71407f64",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x91C155A1a2f9Ebc90eb7546766b9bFbDa1aAdf22",
+    "sushiswapPair": "0x7d7428c778424DB4c3A0930D18Ca89a46b66f042",
+    "token0_symbol": "JUICE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x55111baD5bC368A2cb9ecc9FBC923296BeDb3b89",
+    "sushiswapPair": "0xe69d51Fe01608EDFFCa53d0881897fFf9aE09bF6",
+    "token0_symbol": "$BASED",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3166C570935a7D8554c8f4eA792ff965D2EFe1f2",
+    "token1": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+    "uniswapPair": "0xc29Fa8726A73b6178fd1FbcA2C9B87f2af8D5F60",
+    "sushiswapPair": "0x06FFEcE99895111717c99b4A8d756Ad85A57b9A9",
+    "token0_symbol": "QDAO",
+    "token1_symbol": "USDQ",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x11d147e8d39F59aF00e159C4b1fe3a31D58A2C66",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x50702C216ca6906a18ff105d5DFB1602e8bf0D03",
+    "sushiswapPair": "0x9307539a322Ec5afB08632Bc97d8250f2D94544d",
+    "token0_symbol": "WHIVE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 3,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xb3f39c3108Cd45E1112d8bc9Ae3CD5A110A7CEbD",
+    "sushiswapPair": "0x3BEAcfD8fd342A2C9521054Da4D55b00f06Ae5C0",
+    "token0_symbol": "FREE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xCE84867c3c02B05dc570d0135103d3fB9CC19433",
+    "sushiswapPair": "0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x12D4444f96C644385D8ab355F6DDf801315b6254",
+    "sushiswapPair": "0x1C580CC549d03171B13b55074Dc1658F60641C73",
+    "token0_symbol": "CVP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xe506a80A2D730bB73dDd62Bec85f3Ae3acc1402F",
+    "sushiswapPair": "0x807FdBcb54DC5d01B99A5aa7FCE883A759D27CBe",
+    "token0_symbol": "DAWN",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xAF85a8e471fea21E66F49C98dF652Eb5CFBEC093",
+    "sushiswapPair": "0x1417Bac01F58F68ebf547a3d5B9D0f6E8A495963",
+    "token0_symbol": "CLN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+    "uniswapPair": "0xBe9Ba93515e87C7Bd3A0CEbB9f61AAabE7A77Dd3",
+    "sushiswapPair": "0x04940B1776B0Bf5786dAc58986112C4f722BfC63",
+    "token0_symbol": "WETH",
+    "token1_symbol": "PYLON",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "uniswapPair": "0xdEb9725e10642D1dE906923F5b57851aa92a70AA",
+    "sushiswapPair": "0xf173A7A055340C91DBDF3083cE3BabAa7535A03c",
+    "token0_symbol": "YFI",
+    "token1_symbol": "SUSHI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+    "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "uniswapPair": "0xC8d02f2669eF9aABE6B3b75E2813695AeD63748d",
+    "sushiswapPair": "0x2c85669157ADf4Dde13c46b6323ff4593c7e86f8",
+    "token0_symbol": "KIMCHI",
+    "token1_symbol": "SUSHI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x56feAccb7f750B997B36A68625C7C596F0B41A58",
+    "sushiswapPair": "0x69b39B89f9274a16e8A19B78E5eB47a4d91dAc9E",
+    "token0_symbol": "FARM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8CCd68AF5E35fe01c56AD40cD2eD27CBD7767FB1",
+    "sushiswapPair": "0xb1D38026062Ac10FEDA072CA0E9b7E35f1f5795a",
+    "token0_symbol": "DUSD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x870b372E8c1802165F44b6Cb11398D3D016Ed2E0",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xe1fFE52870C75758272BDE82A72E7C8d4Db05068",
+    "sushiswapPair": "0x7Bb6C127d9ca17475FCce1f8c0D61B77D327A981",
+    "token0_symbol": "DLT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "token1": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+    "uniswapPair": "0xdCf73E2fc348CdDe7d72AE9dd924cF5a52705567",
+    "sushiswapPair": "0x8b599dDB45e82908FB663A89F09bEF0C5DD15F81",
+    "token0_symbol": "USDT",
+    "token1_symbol": "LBA",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x724d5c9c618A2152e99a45649a3B8cf198321f46",
+    "sushiswapPair": "0xc926990039045611eb1DE520C1E249Fd0d20a8eA",
+    "token0_symbol": "REVV",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x668DbF100635f593A3847c0bDaF21f0a09380188",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x76333B38567f78240D6276E5b3985BAa6Fa5Fda5",
+    "sushiswapPair": "0x06f6f3f79bB7236473c144bC43B687428Ac0262E",
+    "token0_symbol": "BNSD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xE3FfaB89E53422f468BE955E7011932EfE80aA26",
+    "sushiswapPair": "0x680A025Da7b1be2c204D7745e809919bCE074026",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+    "uniswapPair": "0x5398B3b021629B38876EBE7eb7Acba43Bb3d63ce",
+    "sushiswapPair": "0x946C919d58390be564802ecF7AC7990627FAC561",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "SHROOM",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5580ab97F226C324c671746a1787524AEF42E415",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x93d2707E73b4f096c274929bB2E4f631C7E61502",
+    "sushiswapPair": "0xCFD111c4c0DaEAE6351bcdC80a993e78923845AB",
+    "token0_symbol": "JUL",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x7fbA40Ba619f49768eadC7FbCBd749EEBb905101",
+    "sushiswapPair": "0xc2f74b85B7fb2b254Afb68826737462eDE1FA89f",
+    "token0_symbol": "ZDEX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xE0Da4E7b3f34AA8c9Fd37880b8C4C36A0109A69b",
+    "sushiswapPair": "0xc66eD7c8034E11EBd32499389C35b3E6E9eE3e78",
+    "token0_symbol": "bXIOT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+    "token1": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+    "uniswapPair": "0xb94b43BC589898F8ce5405E4E7809B0d131A967C",
+    "sushiswapPair": "0xBc035b6bfB2e6a1F6E7ffb7f44d1E7E2a114d990",
+    "token0_symbol": "XIOT",
+    "token1_symbol": "bXIOT",
+    "token0_decimals": 3,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x435d0CA4d455209Dc9b53F09aCDb8D5D761df423",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x6f4f9d5E181dA2679Cf30ab4600aDd6cB533eF72",
+    "sushiswapPair": "0xC9116009b44AfC73f319C2011D7C6c698873BF13",
+    "token0_symbol": "ZAG",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xae84B448e865AedefEFC79262Bb32361E80481F2",
+    "sushiswapPair": "0x6515671641C9028e1a27117F1214DfD08132509C",
+    "token0_symbol": "ULU",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1478C471c35f83a4CE3Cf17fE2Cd076571daf5E2",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xee824B4f66A07B6f6a6e95A324A546F596ABE440",
+    "sushiswapPair": "0x6b5535346D6E8620285b8eE08d2F3651e6C75D68",
+    "token0_symbol": "Yf3L",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x804683B195f83868A21b6732fA68eAB4c738D864",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA7BC262288aC3b8894dFF23C0E539c58A20202C1",
+    "sushiswapPair": "0x9609F1398FF6b982c97Fc4437cfdEBA78CcDe07B",
+    "token0_symbol": "MSI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x9660882055EEb18e54deeE7725dEc5a4b6ae1138",
+    "sushiswapPair": "0x87D3d823f7EE1a86f0939371Cc3A2ef46889B1e5",
+    "token0_symbol": "BTSE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0E5F2858Ffb2c81d7d2545c011B50Fd60a203E0F",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x7C29759683f92490fF77d5b1bE37f7AE6E685E91",
+    "sushiswapPair": "0xEDca3FEfb917D91f61fb429DC220AAb3ff5609ab",
+    "token0_symbol": "CTH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "token1": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+    "uniswapPair": "0x6560f7209cB51aDA2Ca28dE1756eE8cD13Ac8a4a",
+    "sushiswapPair": "0x942D30f11f3f232E4dCA25e2F0E7501DC91a0277",
+    "token0_symbol": "EUSD",
+    "token1_symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB8172076ceb35B6701F96eB9088818EFc010BD44",
+    "sushiswapPair": "0x71B50Dd6Ca7433b5D528F472B93F115CE00AF9c8",
+    "token0_symbol": "SAKE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6c4B85CaB20c13aF72766025F0e17E0fe558A553",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4fD46419Ee4F7F0d84AaE6144Ebc90E30aE639bA",
+    "sushiswapPair": "0xEB4C8d02857bF66543592181144740a57d89C81F",
+    "token0_symbol": "YFFII",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+    "uniswapPair": "0x08650bb9dc722C9c8C62E79C2BAfA2d3fc5B3293",
+    "sushiswapPair": "0x15e86E6f65EF7EA1dbb72A5E51a07926fB1c82E3",
+    "token0_symbol": "WETH",
+    "token1_symbol": "AMP",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2854f5fe2D01393360cB0532c66D7721B3f48324",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1b68f4Ba87A1004852D2c48188d37D46a8a28145",
+    "sushiswapPair": "0x5862d8D46F6a42332dEC8d8d8C27796C0F38264b",
+    "token0_symbol": "CAFE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb9d4b4d710E47E6782f3FFD6740dfa65FD637C08",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x2cf90f1849cc2Dd368ADa85A8C928499ea89c33f",
+    "sushiswapPair": "0x39043f4a27E4A030aD4bF33132d9D1535CD91Ef6",
+    "token0_symbol": "Morf",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+    "uniswapPair": "0x7fa64A4Be88F9A66401C4a9Cce6B0560e5503f17",
+    "sushiswapPair": "0xeBD49b4c8f7F0deD2cA8B951Cf92a583e7b4C8e7",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "AMPL",
+    "token0_decimals": 18,
+    "token1_decimals": 9
+  },
+  {
+    "token0": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8927616110cf23c4e87dc98614eB9FBaAE95216C",
+    "sushiswapPair": "0x844AA51D309BDC4a44146192F8d4097CAD51d96E",
+    "token0_symbol": "MOON",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xB423c1fb5414f0711c71181995FF59FfA6D31146",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x70CC05A5881E575e044D980739C8a9f5115ef77A",
+    "sushiswapPair": "0xa4d456B9DBe75B033b13b138CAADBe4Bd15432ae",
+    "token0_symbol": "TUNA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xdeFCb64c13442D40db6e45CF7fE1E064e5E360C9",
+    "uniswapPair": "0x07A78fDC76cb612e8f1c9344D24c14F8A4Bb6dAf",
+    "sushiswapPair": "0xbf8722F17E8017c96389C20b41eCB62e1f34e4Bd",
+    "token0_symbol": "WETH",
+    "token1_symbol": "NYAN",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5D1b1019d0Afa5E6cc047B9e78081D44cc579FC4",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xce71B536130aB699460E318fd52dA476bfda7CA4",
+    "sushiswapPair": "0x48f2339da7d4Db105adE880a2809AB8a38899f21",
+    "token0_symbol": "YFRB",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xdc98556Ce24f007A5eF6dC1CE96322d65832A819",
+    "sushiswapPair": "0x269Db91Fc3c7fCC275C2E6f22e5552504512811c",
+    "token0_symbol": "PICKLE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+    "uniswapPair": "0x4b618087DaE7765823BC47fFbF38C8Ee8489F5CA",
+    "sushiswapPair": "0x3a99e53B8f5bB7ACC583701AE37F1C7305Ff79dD",
+    "token0_symbol": "WETH",
+    "token1_symbol": "SASHIMI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+    "token1": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+    "uniswapPair": "0x1629B0259E6E5c315B8Eea09fd1a4D0A26291F98",
+    "sushiswapPair": "0xE6d38B6481E6B01cB5F72F64d8fF1B8cdfcbE62a",
+    "token0_symbol": "ELF",
+    "token1_symbol": "SASHIMI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+    "token1": "0xEF69B5697f2Fb0345cC680210fD39b593a2f9684",
+    "uniswapPair": "0xA2C55468afa762F26Df62155E186A686056057eb",
+    "sushiswapPair": "0x0BB1f1cB9dd524e0f663AE1d0b24e60c1541956b",
+    "token0_symbol": "KIMCHI",
+    "token1_symbol": "MOUTAI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xC2923b8a9683556A3640ccc2961B2F52B5C4459A",
+    "sushiswapPair": "0x715134A16acB73c86e81df5542e1CF759eEB6Fc7",
+    "token0_symbol": "BUSD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4d5ef58aAc27d99935E5b6B4A6778ff292059991",
+    "sushiswapPair": "0x34b13F8CD184F55d0Bd4Dd1fe6C07D46f245c7eD",
+    "token0_symbol": "DPI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6b51Beeaa7D6704D48d088Ec95735e21459385f0",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xAaBc7Ffb616abB80656ba703E7045646B2CB7Ca2",
+    "sushiswapPair": "0x33F172212d30B559F8D8B8A54911CE10a2d42296",
+    "token0_symbol": "YTC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0xEF69B5697f2Fb0345cC680210fD39b593a2f9684",
+    "uniswapPair": "0x5eB7687ADff4F6CE8Ef285806856174d9A81eF6F",
+    "sushiswapPair": "0x1F909B6c6153ea046739d632380dB60671fE7f38",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "MOUTAI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x75019407B9f8f30f2b1fD3e4905A0A39eCC14817",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4314CBBbe432980b5C3bb6C9b8841967bed9e16C",
+    "sushiswapPair": "0xcd397987bFbf91E5c64e50226A361e80E598fC44",
+    "token0_symbol": "WASABI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xd7cFbCadaaF6475321cfcf3884F15A93400bE658",
+    "sushiswapPair": "0x3085f06E60CAfAC44b7d2D9e251771dd22aA9A2b",
+    "token0_symbol": "OCTO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xf66369997ae562BC9eeC2AB9541581252f9Ca383",
+    "sushiswapPair": "0x8486c538DcBD6A707c5b3f730B6413286FE8c854",
+    "token0_symbol": "PERP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+    "uniswapPair": "0x7d850B7Dd7EB091eC313F730ee81E165A80E863f",
+    "sushiswapPair": "0x02eb135EBA0D5b36C2cF0bb9190C36927C5EED6D",
+    "token0_symbol": "WETH",
+    "token1_symbol": "ZEON",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1273aD5D8f3596A7a39EfDb5a4b8f82E8F003fc3",
+    "sushiswapPair": "0x6463Bd6026A2E7bFab5851b62969A92f7cca0eB6",
+    "token0_symbol": "HEGIC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x4D5EBb22982ffEccB7B3e42a624555Cb313285f0",
+    "sushiswapPair": "0xf7b515CF4DBcfA0b215baB0CcDE0f4beFc15e3C8",
+    "token0_symbol": "HGET",
+    "token1_symbol": "USDT",
+    "token0_decimals": 6,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xe41e01A3231C0f19BACB9BAee26a8554E0796391",
+    "sushiswapPair": "0x94607d90f79cA3416a0CCeC1aa7442EA26df1af0",
+    "token0_symbol": "HGET",
+    "token1_symbol": "WETH",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4E26Ceb8A932114a95cfB682851b6e832f830062",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xD951BF5fEe17CbCB3cf79323D3e3AeFF3F7C0Bc0",
+    "sushiswapPair": "0x36B66b447b7A2FfAEe307785F663ec8D5a598Ba1",
+    "token0_symbol": "MoonGain",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x44f3eF76B4F277e6C78c9d363Ffd18a34a761940",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8FaE43d8A8Ba4AB5aE6fFce8e9ea7C3240735dCe",
+    "sushiswapPair": "0x168d3fCbb4213fC91d5c40aCc302Bfccd89112aa",
+    "token0_symbol": "  比特币  ",
+    "token1_symbol": "WETH",
+    "token0_decimals": 4,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xce9aFAF5b0dA6cE0366aB40435A48ccff65d2ED7",
+    "uniswapPair": "0x364dF315B933E7ADb717A34F17e7fE0C90Cd7549",
+    "sushiswapPair": "0xdFb87fD2F9f5eEC75930A2D8Cfe67f791801FE30",
+    "token0_symbol": "WETH",
+    "token1_symbol": "BOBA",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xaB659deE3030602c1aF8C29D146fAcD4aeD6EC85",
+    "sushiswapPair": "0x5a2943B25ce0678Dc0b351928D2DB331A55D94eA",
+    "token0_symbol": "GHST",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x81C0EdFa7aaBB17E4BB0cFb956116191c5B7543f",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x0d8f27dC1824d8F19E066d0025dBB34a95097177",
+    "sushiswapPair": "0xF2aE5aaef14d08e0EA618aBb1384127941bCbDa6",
+    "token0_symbol": "BERRY",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x95251F98C45E283Cd40aA7b42EeE1c0a599C4d1d",
+    "sushiswapPair": "0xDd2F8D990D7352bb38bd0340c394af4691D9957C",
+    "token0_symbol": "ROOBEE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x623B3917719A3cef1A5d75E8F0aD37A45031a4d5",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x6069bb65385791239E0B9964cF9D55F6659Dd91E",
+    "sushiswapPair": "0xDCA8BeDDa2a15b740D3BC58Bb14027c48F2AFbf6",
+    "token0_symbol": "RBT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xfDd63Ca7b3A641023D9a4a8FDF161e6Deaa7d7B6",
+    "sushiswapPair": "0xf05fd86C9b2f5E883165FC7de5E41F65AC5494C7",
+    "token0_symbol": "USDQ",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "token1": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+    "uniswapPair": "0x0cc4EDE170C32d621e47c28Bc51C9b6b42Bdc57e",
+    "sushiswapPair": "0x88155b7E850FCffaBfc632a3bd8BFafD90Fd198D",
+    "token0_symbol": "TUSD",
+    "token1_symbol": "USDQ",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0xaa3d28Ffc35B42fb95330E96D6E89AF91Bcc319e",
+    "sushiswapPair": "0xad1894D8b708A11F627d6A0355c5E6b2E0bEB606",
+    "token0_symbol": "USDQ",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "token1": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+    "uniswapPair": "0x01388f9242964E2AAAdEF6379eB92276acb5520E",
+    "sushiswapPair": "0x98c2f9D752e044DC2e1F1743bF0b76A7096eCeb2",
+    "token0_symbol": "USDT",
+    "token1_symbol": "FRONT",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+    "uniswapPair": "0x2EA2eb8F9A1BF17bCBf2555536c9d1E24E45ebc0",
+    "sushiswapPair": "0x22Ae58315BBa4d583c171a0CFD1D26b97399e7eA",
+    "token0_symbol": "WETH",
+    "token1_symbol": "FRONT",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xBD0001Bb1a7EBDc64899161b48C60bcbef62004E",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB4fAC9BB80cB84E082Df0eCfCA3020E3e0332d9e",
+    "sushiswapPair": "0x47CAB0CE3d17833F668B2C19611354b5477501AF",
+    "token0_symbol": "YFFU2",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x7756Edf05Ef3c2b321A85D77B5cbF7c8A9a7C247",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x62Af477147803E091DB3CeC399190739B14A375f",
+    "sushiswapPair": "0xe26433358fDB9aDdcc59ba3F2Df0e8490B015FF4",
+    "token0_symbol": "AQU",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x5cBEfe14c66ba706e79CA4237fF10F218461014A",
+    "sushiswapPair": "0x8454326E091a32BB004779128C2466E4874e0144",
+    "token0_symbol": "DARK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+    "uniswapPair": "0x0b85B3000BEf3E26e01428D1b525A532eA7513b8",
+    "sushiswapPair": "0x5FB195761A1Db915906569fB597F33F97034d9D4",
+    "token0_symbol": "WETH",
+    "token1_symbol": "RIO",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x6a928D733606943559556F7eb22057C1964ce56a",
+    "sushiswapPair": "0xBCd6a2DdAfbaa7f424698ed69E717C0c0F1e99BF",
+    "token0_symbol": "UBXT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1a7261e52361f16b6dFeD744ADF75E0B3D869fE7",
+    "sushiswapPair": "0xe1996640C0e7AE4DDcA6310a25879b8255c7E92f",
+    "token0_symbol": "MYFI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x05a599258ee8F54dE384516A5e8f61AdBF092ba6",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x338a1B7F473C9E843496bCc82556a3788D401213",
+    "sushiswapPair": "0xF139473f526f7a139298ef2892F1915031C4F4DA",
+    "token0_symbol": "YFMEAT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xd3d2E2692501A5c9Ca623199D38826e513033a17",
+    "sushiswapPair": "0xDafd66636E2561b0284EDdE37e42d192F2844D40",
+    "token0_symbol": "UNI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x463f4C94065F46D6eaC66FdecA13f9B9E243BE33",
+    "sushiswapPair": "0x38A0469520534fC70c9C0b9DE4B8649e36A2aE3E",
+    "token0_symbol": "LINA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1107B6081231d7F256269aD014bF92E041cb08df",
+    "sushiswapPair": "0x033ecD066376aFec5E6383BC9F1F15bE4C62dc89",
+    "token0_symbol": "YAX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xAcD2556F64D4BE9Aaa205278895653D3e6d639aE",
+    "sushiswapPair": "0xF5FBC6CA5c677F1c977Ed3a064B9DDA14c5E241b",
+    "token0_symbol": "YFI",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xe2aAb7232a9545F29112f9e6441661fD6eEB0a5d",
+    "sushiswapPair": "0x0F82E57804D0B1F6FAb2370A43dcFAd3c7cB239c",
+    "token0_symbol": "YAM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "token1": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+    "uniswapPair": "0x8a1643D77621d171df97Df4fc86051F54F7EBA90",
+    "sushiswapPair": "0x2Dbc7dD86C6cd87b525BD54Ea73EBeeBbc307F68",
+    "token0_symbol": "WBTC",
+    "token1_symbol": "TBTC",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x77745Eb70a555691e152732713f6c3f0cfe99819",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x540d1094Bb9B3996dAC198Ea840FEc1e230C3Ce0",
+    "sushiswapPair": "0xDf2C408F0aD496b222baC96EcadC68703b9E0b2A",
+    "token0_symbol": "VAULT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x32Ce7e48debdccbFE0CD037Cc89526E4382cb81b",
+    "sushiswapPair": "0x68C6d02D44E16F1c20088731Ab032f849100D70f",
+    "token0_symbol": "CORE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "token1": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+    "uniswapPair": "0x627aF1A4885aE497634Fb67Ac71E08450211A307",
+    "sushiswapPair": "0x2024324a99231509a3715172d4F4f4E751b38d4d",
+    "token0_symbol": "WBTC",
+    "token1_symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "token1": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+    "uniswapPair": "0xD4562C165f92cBAe81Ca24e7F70Ef3DF95F025A7",
+    "sushiswapPair": "0xF684f3ef7f5EC6B0D9E41b81DB53e0869090607B",
+    "token0_symbol": "UNI",
+    "token1_symbol": "MEME",
+    "token0_decimals": 18,
+    "token1_decimals": 8
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xcae516AA57D04EBf9b92813050282333F7587d2F",
+    "uniswapPair": "0x56bFbB50aE7eaEAF6276CfAB8Fc62C9B40D52194",
+    "sushiswapPair": "0x04631328f056046ab6A5ae62DF2d4fE6bead5334",
+    "token0_symbol": "WETH",
+    "token1_symbol": "UNI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0xcae516AA57D04EBf9b92813050282333F7587d2F",
+    "uniswapPair": "0x6F7e2CcaD0327f35DCeEf126f969ac193d2e7C3d",
+    "sushiswapPair": "0x145F07DAD471Ca72917fB1Df304C804A14d5A65F",
+    "token0_symbol": "DAI",
+    "token1_symbol": "UNI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xc6e2da4A9dBe3DFe5A0836B182e0a762A0F8ebd9",
+    "uniswapPair": "0x45F1f47D4aEE6624F003d70E06063B20a8a7F620",
+    "sushiswapPair": "0x81EA504D5b278f651398fAeF51CC65A7b5791663",
+    "token0_symbol": "WETH",
+    "token1_symbol": "FCKS",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6509f9cDCd547b06482Fc79209c71C7C7493d5f1",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x654FAAc8C98F371F2060B4bC06C25c53f73AE5A3",
+    "sushiswapPair": "0x5a875034Bb718d583e490b1e6831a436e73db2E4",
+    "token0_symbol": "QWER",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "token1": "0xba4418f862A8d37c67991d658a3C5C09bD8C7366",
+    "uniswapPair": "0x2374e9AE8Bc78E39CfFcAC0F8FF2470C4469bAAD",
+    "sushiswapPair": "0x2e3e2d13fF250308E3a9EB25739B7eED1316249B",
+    "token0_symbol": "USDC",
+    "token1_symbol": "CROWN",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xCC01d9D54d06b6a0b6D09A9f79c3A6438e505f71",
+    "sushiswapPair": "0xe4455FdEc181561e9Ffe909Dde46AAEaeDC55283",
+    "token0_symbol": "OUSD",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x042aFd3869A47E2d5d42CC787D5c9E19DF32185F",
+    "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "uniswapPair": "0x56C7D49C603828ea2baBB2330aD5FF82d96698f9",
+    "sushiswapPair": "0x812dCbf51F5A7A000dF6e7aAA8557290fd41cf41",
+    "token0_symbol": "POT",
+    "token1_symbol": "SUSHI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x53455f3B566d6968e9282d982dD1e038E78033ac",
+    "sushiswapPair": "0x9A367A38429D509F00E062B3A6143C1ad0C1250a",
+    "token0_symbol": "DRC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 0,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x41b3F18c6384Dc9A39c33AFEcA60d9b8e61eAa9F",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xC6fc2D5101da4628DB8D055776ae1a91fa0C8796",
+    "sushiswapPair": "0x4FCcb922148284270ce8b2fca8c00519563A4dDa",
+    "token0_symbol": "NOAHP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xfAAB5238F5D2163E25518B0C1aF205da0f783dD0",
+    "sushiswapPair": "0x67e475577B4036EE4f0F12fa2d538Ed18CEF48e3",
+    "token0_symbol": "$ROPE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4acDB58fD79556cD276a08ec2e599d48A1ac6290",
+    "sushiswapPair": "0xDFf71165a646BE71fCfbaa6206342FAa503AeD5D",
+    "token0_symbol": "ESD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x973e52691176d36453868D9d86572788d27041A9",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x3B76c26882BDe29f8AE07F8972415c60E1F593f6",
+    "sushiswapPair": "0x1923eDe7104c67d4Af0A970bf8E8d566eaea2680",
+    "token0_symbol": "DX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x854056Fd40C1B52037166285B2e54Fee774d33f6",
+    "sushiswapPair": "0xEe6d78755e06C31AE7A5EA2b29b35C073dfc00A9",
+    "token0_symbol": "TBTC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+    "token1": "0xce9aFAF5b0dA6cE0366aB40435A48ccff65d2ED7",
+    "uniswapPair": "0x9FE2d6A491C03dA7f372025D11090152874faD34",
+    "sushiswapPair": "0x3281062759aCbec9A34F2c4483aE28671AcC5103",
+    "token0_symbol": "ARPA",
+    "token1_symbol": "BOBA",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xb319887931A5A1BB379dEB45c2586430b166f21B",
+    "sushiswapPair": "0x271d81cc42b48D57A288275a5908f5beD492ec14",
+    "token0_symbol": "FOR",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "uniswapPair": "0x6580E58dEd2b562CF5DFA361956f6854F5Cab507",
+    "sushiswapPair": "0xb8B3662413d35A3f2cd1Ebe069873f69CE5CfA8b",
+    "token0_symbol": "UNI",
+    "token1_symbol": "SUSHI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x23935765cDf2F7548F86042Ff053D16A22C4e240",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x47110eA8554a4A6982E96904Aa1244a0BaB0203F",
+    "sushiswapPair": "0x131c209140db8d882Ff9B67523874f9e22E9b1DE",
+    "token0_symbol": "TRZ",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xBDA4C66Be1EC829716819272A1D110C31Ef20AaC",
+    "sushiswapPair": "0xE5f06db4F3473E7E35490F1F98017728496fe81E",
+    "token0_symbol": "mbBASED",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+    "token1": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "uniswapPair": "0xC776DF57034fDc7B45ed461306FcDEabEbd8e8d2",
+    "sushiswapPair": "0x637493D9d5B47554E4F18aE703BE7014A8B3550A",
+    "token0_symbol": "STAKE",
+    "token1_symbol": "UNI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x50b379ec299E4585F2644EA6376D00b3C402c8cc",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xD406ff619727Ff1F34e9bB27b57a8145D0ab647c",
+    "sushiswapPair": "0x718Ff3F9957Ab5586eCfF2Df2Aa11121F71F3d67",
+    "token0_symbol": "UniSushi",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x32Ce7e48debdccbFE0CD037Cc89526E4382cb81b",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xDDF64489205D5d117a92C5D65e00950904D13fC2",
+    "sushiswapPair": "0x313bb8421607D7C100BbF3299Fe505d0bd1f821C",
+    "token0_symbol": "UNI-V2",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xa52Ea9e1581660e797Fde1Aa379A3daC9452963f",
+    "sushiswapPair": "0x8C5215e9950c984faC54Bb681211B38Cc428e007",
+    "token0_symbol": "ACG",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xD34361F7830FDf2Ca6D7023a32A776Db39762CE9",
+    "sushiswapPair": "0x5A1993285c17507dA692653c96916BB04CA9F555",
+    "token0_symbol": "TACO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3BBaf639f381B2D75B321903A921850fc2Fe1538",
+    "token1": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+    "uniswapPair": "0x80dA4aBdc6c26747c0d45974433F8437F2660a18",
+    "sushiswapPair": "0xA4352165CD89cFd6F9c831C1AE83c4e3A7F9B0De",
+    "token0_symbol": "FAIR",
+    "token1_symbol": "MEME",
+    "token0_decimals": 18,
+    "token1_decimals": 8
+  },
+  {
+    "token0": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x85609C626b532ca8BEA6c36Be53afdcB15Dd4A48",
+    "sushiswapPair": "0x2356695F595EFc8c8aD4ac29285947d72f995952",
+    "token0_symbol": "wANATHA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x30D3074f11a95eb0E34383a5B3A459717e89Fbc4",
+    "sushiswapPair": "0xE22Fb95aECfaE1324B09D7A34229A006adf5431D",
+    "token0_symbol": "AMIS",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9470a37D562d6A4052f1c633848C2648460D688e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xf50B78664DC489bD5CDfCC2D576e099bc9Da9c85",
+    "sushiswapPair": "0xE5ccD204616E0C13321087c74215a6D1e505f382",
+    "token0_symbol": "EARN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xe1f238374943bB9A2d254dfB713B3B2fF8efdb87",
+    "uniswapPair": "0x47a927bb962a7bcbFa4283D2705079a4844Df83a",
+    "sushiswapPair": "0x166cd86E770DEcA0b2DE9a1987200c2eb3C368E6",
+    "token0_symbol": "WETH",
+    "token1_symbol": "ETRD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "uniswapPair": "0x04039c93768E872C469Ed1E8A6a199AD90e56206",
+    "sushiswapPair": "0xB9e4B63716252eC73dC43c545bFD58d18f040251",
+    "token0_symbol": "USDC",
+    "token1_symbol": "EUSD",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9470a37D562d6A4052f1c633848C2648460D688e",
+    "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "uniswapPair": "0x22c34609a136a377b76E5EE1037d47A6309Dfed8",
+    "sushiswapPair": "0x04771d6E1c4b1a6912c74eC53E6d1E83b45e4E9B",
+    "token0_symbol": "EARN",
+    "token1_symbol": "EUSD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "token1": "0xe1f238374943bB9A2d254dfB713B3B2fF8efdb87",
+    "uniswapPair": "0xB34eE9506161AD1c5B344C36E02B1B54E6720b15",
+    "sushiswapPair": "0xd0cD6c701a567e7A3887a6Ba5eBdfC10A6DA7f9C",
+    "token0_symbol": "EUSD",
+    "token1_symbol": "ETRD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0268f0dd879cEa41210B8191149D06Bd318a56E7",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4a764f7822b8Fc3C771e3aA1759693caA7075212",
+    "sushiswapPair": "0xb302c4F59d0BD05894ca46fFbc1b718672c9dfFc",
+    "token0_symbol": "EDEN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0268f0dd879cEa41210B8191149D06Bd318a56E7",
+    "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "uniswapPair": "0x59825C40a221abe2ADaD9a4f0bBa40c8CB846E0D",
+    "sushiswapPair": "0x6AAC580BC0c390Ca2B45FF9535baEA8651dae8C1",
+    "token0_symbol": "EDEN",
+    "token1_symbol": "EUSD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1DAAa369dC59Fb021C147C2A191e6d180e981cDF",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x7C596355006B80c50c10a5f3B0F8336B2C25f810",
+    "sushiswapPair": "0xDA142aaFeB162D83c13Db2B68b3D51c89a972901",
+    "token0_symbol": "ENFT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xDFC14d2Af169B0D36C4EFF567Ada9b2E0CAE044f",
+    "sushiswapPair": "0xD75EA151a61d06868E31F8988D28DFE5E9df57B4",
+    "token0_symbol": "AAVE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xE8846B27988FF52c371D5BD27Bf8DBA4097C93D2",
+    "sushiswapPair": "0x97f34c8E5992EB985c5F740e7EE8c7e48a1de76a",
+    "token0_symbol": "DOUGH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+    "token1": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+    "uniswapPair": "0x6B80Eb3633901B0C5E5a4516eb8EbB9B14452b4A",
+    "sushiswapPair": "0x6633Ec82d40f701aB37A2B6d824DFC34081e3B50",
+    "token0_symbol": "USDK",
+    "token1_symbol": "OKB",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x3FDd067009ef5aA74c0fC3Efd2B0ec88999BE9F6",
+    "sushiswapPair": "0x121626BCe68A417069279cA626B7305a6c1E4eeB",
+    "token0_symbol": "USDK",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x7359EA6aF994BEF790CaeB8ae31619Ea20a8f7f3",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xF3D389ba5a950054Ffd59DD5F7C49906688B3132",
+    "sushiswapPair": "0xf5D5C8125192c7968540E0718A883874A9038C2D",
+    "token0_symbol": "yf-NFT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3e48F3513e6416Df787F6978545D2f2F902D39fd",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xd43629dfb0a285839E25c285D527742a6059632f",
+    "sushiswapPair": "0xdAe2BF063d208611f2e44378197a3315Ea569A16",
+    "token0_symbol": "ZIN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x47331c546C77997669ea7C9FeFB0C649bE8644FD",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4E910210DEd5cCe915c1C38434aAa169fB232733",
+    "sushiswapPair": "0x7C46Ff058f4eC60FDfa99D97E9D8563437F95E01",
+    "token0_symbol": "EARN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x47331c546C77997669ea7C9FeFB0C649bE8644FD",
+    "token1": "0xb220D53F7D0f52897Bcf25E47c4c3DC0bac344F8",
+    "uniswapPair": "0xaED45d161b4Ae5a805104094CEB3d376F36Bc093",
+    "sushiswapPair": "0x9CdB6fcb7536BAEAD4E2253C1840d3BD406c7A9d",
+    "token0_symbol": "EARN",
+    "token1_symbol": "EUSD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x08DE69e5E9d08bb1Dff0b5a7c8CC6672df7c0412",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xBFA1AB8E7E838329442E3979885E9A491E433AAE",
+    "sushiswapPair": "0x59BEFE124e09CE71aEE9e8D1b072a08C102aA8d3",
+    "token0_symbol": "RON",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x276E62C70e0B540262491199Bc1206087f523AF6",
+    "sushiswapPair": "0xC79FAEed130816B38E5996b79B1b3b6568cc599F",
+    "token0_symbol": "DRC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x3452A7f30A712e415a0674C0341d44eE9D9786F9",
+    "sushiswapPair": "0xA73DF646512C82550C2b3C0324c4EEdEE53b400C",
+    "token0_symbol": "INDEX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x44Ea84a85616F8e9cD719Fc843DE31D852ad7240",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "uniswapPair": "0x00B48f7E48aC531D7e5DA6454F6af1f7Ab800280",
+    "sushiswapPair": "0xaB3F8E0214D862Bf7965d3CeC7431d7C1A85cb34",
+    "token0_symbol": "nTrump",
+    "token1_symbol": "DAI",
+    "token0_decimals": 15,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xad0887734461aF8C6033068bDE4047Dbe84074cc",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x8537d29271b689ec8e563Ae6d9e9910701F6632f",
+    "sushiswapPair": "0x32FdB63ac07682d012255D359299246f7D5FdFA4",
+    "token0_symbol": "aswap",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
+    "uniswapPair": "0xcFDCD696dde5df39f569807C6934E6bA97ceBb8A",
+    "sushiswapPair": "0x9Ff54FDFEE314C3C404409D6c1b48220a736c5B7",
+    "token0_symbol": "WETH",
+    "token1_symbol": "VBTC",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "token1": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+    "uniswapPair": "0x88140C1A940698c69123a95C360E77eEfbBf6980",
+    "sushiswapPair": "0x4BB3382C2B429Cf5ff72BC26304bD4f60DF5FdEE",
+    "token0_symbol": "LINK",
+    "token1_symbol": "aLINK",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x60B2cC2c6ECD3DD89b4fD76818EF83186e2F2931",
+    "sushiswapPair": "0xf55C33D94150d93c2cfb833bcCA30bE388b14964",
+    "token0_symbol": "ALPHA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+    "uniswapPair": "0xdc75CfEb24fEC97Fc4c6521f4f9727013cb10F22",
+    "sushiswapPair": "0x1ccC8ee624FBe8c10917b96D1f0672B480F0d671",
+    "token0_symbol": "WETH",
+    "token1_symbol": "DTR",
+    "token0_decimals": 18,
+    "token1_decimals": 8
+  },
+  {
+    "token0": "0x26c7D50B9f372e1FA9cA078CC054298f36D68B17",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xF4f0A738A0E18bfFaC551A3b8f53869565f93487",
+    "sushiswapPair": "0x04a76d48BeE726E5d8215586a33441eC902d08Af",
+    "token0_symbol": "SDARK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x99dFDE431b40321a35dEb6AEb55cf338dDD6eccd",
+    "sushiswapPair": "0xC4b26b26d720467d96E18f08664A888d4116cEa6",
+    "token0_symbol": "UFT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x54f5f952cca8888227276581F26978F99FDBa64E",
+    "sushiswapPair": "0xc4dE5Cc1232f6493Cc7BF7bcb12F905eb9742Bd7",
+    "token0_symbol": "REB2",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x914f79F4fDFfe98a68B10B8327f7a571fA36405D",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xDb75FCC3c3baBA30A97AAC97ba69A200571916a2",
+    "sushiswapPair": "0x9a67737d2aB958D80A763bbbD4b1c826249745F4",
+    "token0_symbol": "YLB",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x86338B9c31fCF015F26fafFE289FdC924A9A2a25",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x078c0C56c4347333b16b421C2e3fc8378e224b32",
+    "sushiswapPair": "0xA49e7DC858F84f909A7E9589eaAa2826795C0d8A",
+    "token0_symbol": "Cswap",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x13809390eFC00Df7Dc27d47fb7F200C773354eC4",
+    "sushiswapPair": "0xadeAa96A81eBBa4e3A5525A008Ee107385d588C3",
+    "token0_symbol": "SWAG",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x70F823ed7643Fd7A26FDf8753827d31C16374FDE",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xa3eAb79E926C0632d2705a94942e55C91a294970",
+    "sushiswapPair": "0x7A367305fb0084160B8fB5B185AE24CeAc7ad883",
+    "token0_symbol": "PKGX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+    "uniswapPair": "0x23d15EDceb5B5B3A23347Fa425846DE80a2E8e5C",
+    "sushiswapPair": "0xD7c2A4aa31E1bF08dc7Ff44C9980fa8573E10C1B",
+    "token0_symbol": "WETH",
+    "token1_symbol": "HEZ",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2075ab08D7C74EEE8776b3726661C2B55413D721",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x9A5a3Bb5751223b2d3b272c114DFEc7Cf12c54D1",
+    "sushiswapPair": "0x73Bf5D088C5EF4673F194DD32f38703a32362D7f",
+    "token0_symbol": "YieldX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9f7229aF0c4b9740e207Ea283b9094983f78ba04",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x9D8D4550637e3fc86CB465734Ab33280e4838E08",
+    "sushiswapPair": "0xFd0A96bBa496Ef72e925c3acecA8877e4600D275",
+    "token0_symbol": "TAD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xf6ec87DFE1Ed3a7256Cc0c38e3c8139103e9aF3b",
+    "uniswapPair": "0xf6C31E1A1710dE68a42B862984836D561462fC1E",
+    "sushiswapPair": "0x648806DAE0B6B1BF070324DFf045C4af5bEE8c61",
+    "token0_symbol": "WETH",
+    "token1_symbol": "GENE",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x64Cb899c18bbC45d532103599FF38D5cc207b8B6",
+    "sushiswapPair": "0x9cD7C3Aa1Afae3c59d6767009842BFC512029005",
+    "token0_symbol": "VXC",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x692B1F406159eA77C65d7d0d37521f6AF8B8910F",
+    "sushiswapPair": "0x686a01120827CAE5230bb81D5C2A74667C8B7552",
+    "token0_symbol": "VXC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x837010619aeb2AE24141605aFC8f66577f6fb2e7",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x2855d51a6c054e5e879BfcE18e3a028aE5c190F7",
+    "sushiswapPair": "0x9b84b70F3e2D41677426Da48EB3D61F985C008C4",
+    "token0_symbol": "zHEGIC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+    "uniswapPair": "0x3C70f4FAeA49E50AdC8305F2E1Aa0EA326A54fFc",
+    "sushiswapPair": "0xFb3cD0B8A5371fe93ef92E3988D30Df7931E2820",
+    "token0_symbol": "WETH",
+    "token1_symbol": "INJ",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xC730EF0f4973DA9cC0aB8Ab291890D3e77f58F79",
+    "sushiswapPair": "0x4F871F310AD0E8a170db0021c0ce066859d37469",
+    "token0_symbol": "AUDIO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xc9ca10d36441B5b45d5E63480139105f037972e0",
+    "sushiswapPair": "0x44D34985826578e5ba24ec78c93bE968549BB918",
+    "token0_symbol": "BOR",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4214290310264A27B0BA8cfF02b4C592D0234aA1",
+    "sushiswapPair": "0xc44821a9c3D8835CBA6D17f4C4Db4133B1D7C382",
+    "token0_symbol": "RFOX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+    "uniswapPair": "0x005e5840FD5a4B47a4AC6AcbCD887cF414A94944",
+    "sushiswapPair": "0xC5Fa164247d2F8D68804139457146eFBde8370F6",
+    "token0_symbol": "WETH",
+    "token1_symbol": "SEEN",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x9dEF9511fEc79f83AFCBFfe4776B1D817DC775aE",
+    "sushiswapPair": "0x201e6a9E75df132a8598720433Af35fe8d73e94D",
+    "token0_symbol": "ANT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x370941BA0979187fd8Ab4487Cd76F5b95fe40E00",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x70438014cf35eBCFD9ee376473Ec02fb86053d67",
+    "sushiswapPair": "0xe8152168736207fCB60F09569a1C05E17962f4DE",
+    "token0_symbol": "69",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x87fEbfb3AC5791034fD5EF1a615e9d9627C2665D",
+    "sushiswapPair": "0xaf988afF99d3d0cb870812C325C588D8D8CB7De8",
+    "token0_symbol": "KP3R",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x201850680b79bBEFf4e00684248B237a77bDED0C",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x69E2cfD60F9F42CDCA363066C6670dEb25aa9370",
+    "sushiswapPair": "0x1CDB9a5b489eFb99C46D317022921906dea73CdE",
+    "token0_symbol": "NERDLING",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
+    "uniswapPair": "0x32d588fd4d0993378995306563A04aF5Fa162deC",
+    "sushiswapPair": "0x0bff31d8179Da718A7ee3669853cF9978c90a24a",
+    "token0_symbol": "WETH",
+    "token1_symbol": "SURF",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x739763a258640919981F9bA610AE65492455bE53",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x65d0A154D2425CE2Fd5fED3BdaE94D9a9aFE55CE",
+    "sushiswapPair": "0x110b3B138153c7B117Aceb780f9b005e5C7669f0",
+    "token0_symbol": "NDR",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x98ad9B32dD10f8D8486927D846D4Df8BAf39Abe2",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x259E558892783fd8941EBBeDa694318C1C3d9263",
+    "sushiswapPair": "0xd9DdFF07eBdCF5595998F9F195EDd705D1bD1AbC",
+    "token0_symbol": "VLO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x26c5331a8AAEDe3d3Af276fD61329163a55ECbCa",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xdA719D067948e5855Eb362b495F5A82648a15207",
+    "sushiswapPair": "0x84f221b1681597974AC6CaaDBf1c1077F590498A",
+    "token0_symbol": "ABY*",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0f956036A60E141c68BCa12f1C6c2b458A56BbB2",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x6b22741dF8aB6dE70416675C8eE6af896fd980Eb",
+    "sushiswapPair": "0x66B37B6553D0D087d013416f87E5980FfAce5A21",
+    "token0_symbol": "GIFT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x72e9D9038cE484EE986FEa183f8d8Df93f9aDA13",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x6061A36ad6B7958F68129BB313e6eFf81Cd9113c",
+    "sushiswapPair": "0xD06246Ea3A9169afE3D3124Bf7d7f007Cc8C83A3",
+    "token0_symbol": "SMARTCREDIT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1caF613Ca9Be38F15bAC8D8b84415C2A664c5b83",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x0A9f6bEf631B3B6c8E9198Ba7D6F0C6CF934Cd76",
+    "sushiswapPair": "0x24AaC088F9EC4f6ECd26473204FA91669Bd64072",
+    "token0_symbol": "TRUMP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xda4C5AEA122260e70616E979592735F12FE20499",
+    "uniswapPair": "0x63499CAAcfd364C516075245A2950E830A910B90",
+    "sushiswapPair": "0x3E5c11703f6ee0Fbe73462Be65D2F44B94c925Ee",
+    "token0_symbol": "WETH",
+    "token1_symbol": "AXN",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+    "uniswapPair": "0x70ec2fA6Eccf4010eaf572d1C1a7bCbC72DEC983",
+    "sushiswapPair": "0xf13eEF1C6485348B9C9FA0d5Df2d89AccC5b0147",
+    "token0_symbol": "WETH",
+    "token1_symbol": "ROOK",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x441F9E2C89A343cefb390a8954b3b562F8F91eca",
+    "sushiswapPair": "0xcA658217CE94dFB2156a49a8fAd0Ff752CaC39C2",
+    "token0_symbol": "ALPA",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6a77Bf987BF9a0aF90586Ca72168f8dA5C0A7BCe",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1B7CB49e51E6EB04e8008A9Cd5F41e36e1782283",
+    "sushiswapPair": "0xF65b8e3F9Da7a111c63A283618Dd494324cdfec3",
+    "token0_symbol": "BTCE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x35Bd8472Ed2dA9EeD980e49B8b92CCBcf625aDbD",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xf55D21BA361477c3Ecf98Cf69949bb11DB7dcD38",
+    "sushiswapPair": "0x856D58dDe027de7f33e78ee56CE25268F6CA803A",
+    "token0_symbol": "ENRH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 2,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+    "token1": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
+    "uniswapPair": "0x28BC65Cf4B7EBc38DA915B672182C5C0cA04d5D4",
+    "sushiswapPair": "0x71f7Ae1D899ea19AF0faCE5B25b9577C6A286C95",
+    "token0_symbol": "DFD",
+    "token1_symbol": "DUSD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+    "uniswapPair": "0x24b24Af104c961DA1BA5bCCce4410d49AA558477",
+    "sushiswapPair": "0x35a0d9579B1E886702375364Fe9c540f97E4517B",
+    "token0_symbol": "WETH",
+    "token1_symbol": "AXS",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x67638994e73C5b1B23F8c82d3590Dcd58E0Be045",
+    "sushiswapPair": "0x8e14b803A730Cc3BCC8AF4ffCd9c4b10ebff7215",
+    "token0_symbol": "OOKS",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "token1": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "uniswapPair": "0xB1b7DA1d0C54c68B5083Fa5d69288492b5625786",
+    "sushiswapPair": "0xe848Bc0bc764135d0ae462d9975DC13Be0fEAE2A",
+    "token0_symbol": "WBTC",
+    "token1_symbol": "OOKS",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "token1": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "uniswapPair": "0xC1c65b4455594885C9B65828175eF519dEE6d1ef",
+    "sushiswapPair": "0x9287a47C19842DBd9ADba75adcf2715C190968eE",
+    "token0_symbol": "UNI",
+    "token1_symbol": "OOKS",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9BdE098Be22658d057C3F1F185e3Fd4653E2fbD1",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xbF89051f8d04ad770e2231E9335d3B7483A0A51F",
+    "sushiswapPair": "0x4fcC90d39e7629BC0dF76a63bdfCAa2E3958637c",
+    "token0_symbol": "KP2R",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xF043c39A106db6B58C76995F30Ba35fD211c3b76",
+    "sushiswapPair": "0xacd80a908d37505F708d97AfeE40A739a92C670b",
+    "token0_symbol": "APY",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x9C790A79916296CBA9D7e602933df09E0C4D6a29",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1bbdcD992f4e7E3d633D43Ee31401f546CcE29FD",
+    "sushiswapPair": "0xD830c165FAE12B3708Be1DC9301aca48156eDB88",
+    "token0_symbol": "YGEM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "token1": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "uniswapPair": "0x51C513554C6fE48e56588ca0CC6c5C4183c0d277",
+    "sushiswapPair": "0xfAAc556087aB39eaf9576deDBD0e44cfE170B364",
+    "token0_symbol": "LINK",
+    "token1_symbol": "OOKS",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "token1": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "uniswapPair": "0x55300BAb5F191Fc3a0b1665b09f8415d802E7082",
+    "sushiswapPair": "0x22d7bFadf669976F37C7733a096E3aBdb53721eb",
+    "token0_symbol": "OOKS",
+    "token1_symbol": "COMP",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x653293C9E102A1C4FC41A64BB7975f35384b7e56",
+    "sushiswapPair": "0xee42B08a7e2343E20F0DbC64d38F09bEc78c0234",
+    "token0_symbol": "OOKS",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "uniswapPair": "0x82703A38C707b711856b3459f59537da1Ed34498",
+    "sushiswapPair": "0x7C570E184361B4F730C7Fa19c9F4eE83562ae461",
+    "token0_symbol": "OOKS",
+    "token1_symbol": "DAI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0x0dcAccf4E19246bD1495299E7599E49F23b83aD3",
+    "sushiswapPair": "0x167ab22D8745AACF25Eca9d4B6bC49F2e75764eF",
+    "token0_symbol": "OOKS",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+    "token1": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+    "uniswapPair": "0x0a7b281D0CbF34990bC1a9dE7Dba64d9F1d3CD78",
+    "sushiswapPair": "0x031EA09922FB6dC929985e5Cb280C2AbbBd684Fc",
+    "token0_symbol": "TACO",
+    "token1_symbol": "CRD",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x37472814e5c6146E6cA7ED1753CD1B18B733E5d4",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x617Bb9c787b7bbB35d7B46AAcAAc44b016e02526",
+    "sushiswapPair": "0x9d7a071735DFc0557bC2E9ADaCbE951201f55cb6",
+    "token0_symbol": "WBLURT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 3,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0x2590F6b37796f192a93DB7206b7b6158e89C9e5e",
+    "sushiswapPair": "0x7212Fb4eFC7c1D5Eb56DEa974becb3079c805c6b",
+    "token0_symbol": "WZEC",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x058349297672B6cC7cCb6E59A679c5ADd74a6898",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xbB91195AAB273220331aEC768fa528A01E752F2b",
+    "sushiswapPair": "0x504ef6C1A84484BeC2F30A7fA4baF7cf27318660",
+    "token0_symbol": "ETHV",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xAC8833b0DA01b8f2CA53f549F13b5790066a842D",
+    "sushiswapPair": "0xb12aa722a3A4566645F079B6F10c89A3205b6c2c",
+    "token0_symbol": "DFD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0x4f9356293dDA89a31a924FE1F867825b3AdDa4D8",
+    "sushiswapPair": "0xdD663F39101Cf0CEdaAee7bdfB060f4b9C70976B",
+    "token0_symbol": "WFIL",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x988DaDD0B82fA7d94d9e6f084A08755bFD4da860",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xEEbe713A15cAaa4A437Ef30cd3d6F868a041bBc0",
+    "sushiswapPair": "0xD3B9f81Cf359B60f5730deb890A65CF08880459e",
+    "token0_symbol": "WSCOIN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8064d9Ae6cDf087b1bcd5BDf3531bD5d8C537a68",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x69ff6d9f03b325add29fBea842dc6c7bdE607612",
+    "sushiswapPair": "0x53E9fB796b2feb4B3184AFDf601C2A2797548d88",
+    "token0_symbol": "oBTC",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xd07D430Db20d2D7E0c4C11759256adBCC355B20C",
+    "sushiswapPair": "0x9cD028B1287803250B1e226F0180EB725428d069",
+    "token0_symbol": "ICHI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xC76225124F3CaAb07f609b1D147a31de43926cd6",
+    "sushiswapPair": "0x23a9292830Fc80dB7f563eDb28D2fe6fB47f8624",
+    "token0_symbol": "SFI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6b4389Afb3e243A65668B7311fA9Ef092A8a3B64",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1482cD84C438e3C9349dB015f84dE3c656A0Ca4C",
+    "sushiswapPair": "0x02FF01eDeC0019d2377d827563DAf2243375cE2A",
+    "token0_symbol": "REAL",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+    "uniswapPair": "0xC5202e3f5F60423d7106A68278c627FD091b5C7D",
+    "sushiswapPair": "0xdD62a1a85A24c8D8A1b0F81a16c6EF9b03F96c60",
+    "token0_symbol": "WETH",
+    "token1_symbol": "ARIA20",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5b3F693EfD5710106eb2Eac839368364aCB5a70f",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xe4332d93B4f0477d5230852f59D2621E2AcdEa1A",
+    "sushiswapPair": "0xD1b417b1B4a5eBB13817e6340d0AEb3bBDfC55B8",
+    "token0_symbol": "RLR",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4C8341379E95f70c08Defb76C4F9C036525edc30",
+    "sushiswapPair": "0x6fc4819AFF0eAe81f43Ec8fc00bf224128BEC902",
+    "token0_symbol": "RFI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x635E38E0787207D06B4E667DB8A2e671a8a608e6",
+    "sushiswapPair": "0x9360b76f8f5F932AC33D46A3CE82ad6C52A713E5",
+    "token0_symbol": "zLOT",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5",
+    "uniswapPair": "0x9d4b552C992ee3B863F3b51E95E46eCf38c21429",
+    "sushiswapPair": "0x0040a2CEBc65894BC2cFb57565f9ACfa33Fab137",
+    "token0_symbol": "WETH",
+    "token1_symbol": "UWL",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x8888801aF4d980682e47f1A9036e589479e835C5",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4D96369002fc5b9687ee924d458A7E5bAa5df34E",
+    "sushiswapPair": "0xB2C29e311916a346304f83AA44527092D5bd4f0F",
+    "token0_symbol": "MPH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x465E22E30CE69eC81C2DeFA2C71D510875B31891",
+    "sushiswapPair": "0xe7689B2C21242e07870AAA0ffee1eC11833d5E24",
+    "token0_symbol": "COVER",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x56b4F8C39E07D4d5D91692acf9d0F6d4d3493763",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xB24CB72db5cBD8f1FF4Fc9a285Af3c9BB0DF77Db",
+    "sushiswapPair": "0xf64251aAD731761bA91032534B1Bc432f6c243Ef",
+    "token0_symbol": "TRISM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x69D9905B2e5f6F5433212b7F3c954433F23C1572",
+    "token1": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "uniswapPair": "0xa85BeA5754A8DFC701c98ccC01997dDBdd12690f",
+    "sushiswapPair": "0x1A97AC0771E77132852ad0D7c500182372C1E01A",
+    "token0_symbol": "OOKS",
+    "token1_symbol": "SUSHI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x67c597624B17b16fb77959217360B7cD18284253",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0x7f0AD87B99bA16E6e651120c2E230cF6928c3d15",
+    "sushiswapPair": "0x63a9451897C5b1e15258815f2B1640f72F606eA0",
+    "token0_symbol": "MARK",
+    "token1_symbol": "USDC",
+    "token0_decimals": 9,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x67c597624B17b16fb77959217360B7cD18284253",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x6f23D2FEdb4fF4F1E9F8C521f66E5F2A1451b6F3",
+    "sushiswapPair": "0x750d711277Fd27D1EC5256F13f5110E097713a95",
+    "token0_symbol": "MARK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "token1": "0xc76160CE8E26E0Cf61A78a5a749478D22d91461d",
+    "uniswapPair": "0x22F0D6a48254c797E52B1927E93823FdaC8A5Ad1",
+    "sushiswapPair": "0x82CF3284c06CeE2C34f56358d772DE301d19dC07",
+    "token0_symbol": "LINK",
+    "token1_symbol": "R2R",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x1F3f9D3068568F8040775be2e8C03C103C61f3aF",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x48A91882552Dad988AE758fCb7070B8E9844DeC5",
+    "sushiswapPair": "0x4441eb3076f828D5176f4Fe74d7c775542daE106",
+    "token0_symbol": "ARCH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x25901F2a5A4bb0aaAbe2CDb24E0E15A0d49B015d",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x917909fA34af61868687F57D61344Fb600E064D5",
+    "sushiswapPair": "0xc68F8Fe5E40e98fBAd6DEE914AbF753D95A5B8C4",
+    "token0_symbol": "BFX",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "token1": "0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3",
+    "uniswapPair": "0x66e33d2605c5fB25eBb7cd7528E7997b0afA55E8",
+    "sushiswapPair": "0x26d8151e631608570F3c28bec769C3AfEE0d73a3",
+    "token0_symbol": "USDC",
+    "token1_symbol": "DSD",
+    "token0_decimals": 6,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x29A9777DA2Bacd8C4a28b6fd8247C4Ca4F098f12",
+    "sushiswapPair": "0xA7f11E026a0Af768D285360a855F2BDEd3047530",
+    "token0_symbol": "IDLE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x4C7065Bca76FE44AFb0D16C2441B1e6E163354E2",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "uniswapPair": "0x033d3DcD03faAA8BBE40a83b3B906d42aDc655F2",
+    "sushiswapPair": "0xb58a007097B83A6a56630f12642b2231e8964B01",
+    "token0_symbol": "3LY",
+    "token1_symbol": "DAI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x622f2962AE78e8686EcC1E30cF2f9a6e5aC35626",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xCE5C405fc31134C173d63a1dB425275092f25F2A",
+    "sushiswapPair": "0x3a3c2DfCfAd34CE2382796e73332EaB5E8c71aad",
+    "token0_symbol": "WPOLIS",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+    "uniswapPair": "0xe6c2ffB0C82f50DcFd98F0c837A9A4D8b375D10d",
+    "sushiswapPair": "0x3609b20921F8585717d02d4Ae59e33f809E875B0",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "AMIS",
+    "token0_decimals": 18,
+    "token1_decimals": 9
+  },
+  {
+    "token0": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xdE5b7Ff5b10CC5F8c95A2e2B643e3aBf5179C987",
+    "sushiswapPair": "0xD8B8B575c943f3d63638c9563B464D204ED8B710",
+    "token0_symbol": "BASE",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa67E83917b438E11A58f119A2Bd9cC5dAaB86041",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA89ecE50EE510C07a8A82FA11580672519203Ea1",
+    "sushiswapPair": "0x4B3D33521a977CA690d845C0327C41C05401f7Bd",
+    "token0_symbol": "ECAM",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x0698DDA3c390FF92722f9EeD766D8b1727621Df9",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x1dd89faf8014c8f3cd9FdC9434619fc353688592",
+    "sushiswapPair": "0xeD8859d2DB4e23728b50C63763Ec354580e2b81D",
+    "token0_symbol": "ETH2POS",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "token1": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "uniswapPair": "0xcD7989894bc033581532D2cd88Da5db0A4b12859",
+    "sushiswapPair": "0x110492b31c59716AC47337E616804E3E3AdC0b4a",
+    "token0_symbol": "WBTC",
+    "token1_symbol": "BADGER",
+    "token0_decimals": 8,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xc628da629c615909c961b1C69C3bCAc0c3FAd8a9",
+    "sushiswapPair": "0x8B00eE8606CC70c2dce68dea0CEfe632CCA0fB7b",
+    "token0_symbol": "UST",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x2D8e1dd483008c6843b9CF644Bad7fB25bF52b84",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "uniswapPair": "0xe6006E577cafb2bbeEf1701BE9dc76CC3F23A29f",
+    "sushiswapPair": "0x967D3cA661727484b459452Bd498f0Cf48F1da9c",
+    "token0_symbol": "DCB",
+    "token1_symbol": "DAI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6eab9C5e768C8C37e94dC236c6Cde7dbA4d0F3b3",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x7d26B32d3f883696a741Ba0119A86bDB31879733",
+    "sushiswapPair": "0x4c3Dc59D3E04C58f949af72edDB47d0b32b366E9",
+    "token0_symbol": "SWP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0x239650663A422273C0b2c7A1f1a8bdAb69E78D1B",
+    "sushiswapPair": "0xBa87dC891945dbB3CAeEaF822DE208D7eA89B298",
+    "token0_symbol": "SUSHI",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+    "uniswapPair": "0x9A8ec3B061b180cF8FA3ee295C379Dc9262424B3",
+    "sushiswapPair": "0x0F337c77B5209bA363aD821eE5B0D6DB4964F59b",
+    "token0_symbol": "DAI",
+    "token1_symbol": "IDLE",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6072D37d375A40d898C3925D51ea670aa4bf5433",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xeBA11845107Eb74eE5fbE64a0c4E5314216d38c5",
+    "sushiswapPair": "0xF8a8C2b3C40Faec7A92BCaa696C1B3f0a87AD353",
+    "token0_symbol": "$YFB",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x9127Ecda2976c0476C434C1Cf8A472D7b86cDc0A",
+    "sushiswapPair": "0xCB0E9b07226F468374024873862F95dAD3A2fC31",
+    "token0_symbol": "DSD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xBEc6Cf25aFB79b975E57b93f3216e468F8FED910",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA8d852A4D5F79860816D7503E6457Ac47964809D",
+    "sushiswapPair": "0x4bDFC6F695726bc6eE4cc9AD7De319fF1df3eBe1",
+    "token0_symbol": "IMTY",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xc0917D9f473618029BeA42Dd61B05fCf0251bE42",
+    "sushiswapPair": "0xf45D97F9D457661783146D63DD13DA20ce9bf847",
+    "token0_symbol": "YETI",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0xe1ae2769D69E823567157aD40cf89466cD615ed1",
+    "sushiswapPair": "0xBc98c5FcBb923A6B52C448D6C4e00aCC04e84920",
+    "token0_symbol": "PPAY",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x24eA9c1cfD77A8DB3fB707F967309cF013CC1078",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xA0faD56E9d8eB1142EAD308571873C89054afE55",
+    "sushiswapPair": "0x418aAab462Ec11A02bC492DD68B90f8Ef5316d77",
+    "token0_symbol": "CAVO",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6A6d430573D3F070AEAb97b3A189d698eA130454",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4f2848F2400b2Cf1aBB8B09092d803B046d109f9",
+    "sushiswapPair": "0x3fC748BC9B1958000C149c4fC744F8b5F8f1D577",
+    "token0_symbol": "WBCD",
+    "token1_symbol": "WETH",
+    "token0_decimals": 7,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x82A77710495A35549D2aDD797412b4a4497D33eF",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x35A1f588Dbd86446a4eb8133CCC96e3db0e65bE4",
+    "sushiswapPair": "0x8Fb1973c7f2160977b02a0C8700aC0e2eC9f8621",
+    "token0_symbol": "DOGZ",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xc3601F3e1c26d1a47571c559348e4156786d1Fec",
+    "sushiswapPair": "0x69aa90C6cD099BF383Bd9A0ac29E61BbCbF3b8D9",
+    "token0_symbol": "DUCK",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
+    "uniswapPair": "0x49E31002D5aF5E716B37547bef9C98aBdf22D259",
+    "sushiswapPair": "0x8C2e6A4af15C94cF4a86Cd3C067159F08571d780",
+    "token0_symbol": "WETH",
+    "token1_symbol": "UOP",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x239119c43e3caC84c8a2D45bcBA0E46F528E5F77",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xD2efBE4b7da66c152Ee1D2f09B274E45FBD0120D",
+    "sushiswapPair": "0xC93C8e9e09150Ab7C3abA7b6794c35816f63D1b9",
+    "token0_symbol": "DRIP",
+    "token1_symbol": "WETH",
+    "token0_decimals": 9,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "token1": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
+    "uniswapPair": "0x757C97aa27bf5AEE095756642D717DF2F2DeD635",
+    "sushiswapPair": "0x1Bf4937af0698d9d37FA691e0193892A258551c9",
+    "token0_symbol": "WETH",
+    "token1_symbol": "WSTA",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0xf1eE7348E45Ef0E838C705C2eeCE6d414d4AAb3F",
+    "sushiswapPair": "0xc2B0F2A7F736d3b908BdDE8608177c8Fc28C1690",
+    "token0_symbol": "DDX",
+    "token1_symbol": "USDC",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x2A406fff128bd21155A70d056B9EC7319F692aF1",
+    "sushiswapPair": "0xaB6fd57975fa7b3c0cC85B2101e67e841388a53c",
+    "token0_symbol": "DDX",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0x81A0baec267F9fB2b4Ba9Ab743ee586e2371916f",
+    "uniswapPair": "0x1fB6496d038567E73d8C15442F9BBF7d7Ef2DEb8",
+    "sushiswapPair": "0x1B1c2d1377C38b2763D95141fc2A7b4a367DCFd0",
+    "token0_symbol": "DAI",
+    "token1_symbol": "MIC",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "token1": "0xD9Cb47e5A7D8243756133FCEc6E9Bdc40896CCEF",
+    "uniswapPair": "0x485b863D89528795e9AC171616DFc0f8F5d92d27",
+    "sushiswapPair": "0xef810D82e98e9F1c1F92787d609413841a75aB56",
+    "token0_symbol": "DAI",
+    "token1_symbol": "MIS",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "token1": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "uniswapPair": "0x1DF4139144595e0245B084E7EA1a75101Fb95548",
+    "sushiswapPair": "0x7d2103Aab2612fdfB7FC0fcB3a879A36B7802EF9",
+    "token0_symbol": "1INCH",
+    "token1_symbol": "DAI",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x26aAd2da94C59524ac0D93F6D6Cbf9071d7086f2",
+    "sushiswapPair": "0x86f518368E0d49d5916e2BD9EB162E9952b7b04d",
+    "token0_symbol": "1INCH",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x79939CC7b61079542fDEdB0BF15046B6DEB778d1",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0x4890cA732F80483fDd78de2783EB3a07F02aFD5A",
+    "sushiswapPair": "0xaB1B2915A4422014087eFFD9a61de81CeC9b0aE0",
+    "token0_symbol": "ACTN",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x948A9BB69D1D1202c160d26804aEfff0634A492e",
+    "token1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "uniswapPair": "0x297b278eCb6408A382F05F03456Bb551716C3bd1",
+    "sushiswapPair": "0x4234fDC6C354805236498BCe11420a7cEaE7FfcF",
+    "token0_symbol": "scUSD",
+    "token1_symbol": "USDC",
+    "token0_decimals": 8,
+    "token1_decimals": 6
+  },
+  {
+    "token0": "0x505c6120808e1dC50E84f9B2d8F5db3252666cBD",
+    "token1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "uniswapPair": "0xBB2f18e98140b814111f97b52e33acABbea3eb7A",
+    "sushiswapPair": "0x443029E75aCd7Ca29Ae737578d4Dd91a627d96C2",
+    "token0_symbol": "\"WETC\"",
+    "token1_symbol": "WETH",
+    "token0_decimals": 18,
+    "token1_decimals": 18
+  },
+  {
+    "token0": "0x81A0baec267F9fB2b4Ba9Ab743ee586e2371916f",
+    "token1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "uniswapPair": "0x54e5DB1a90d047F316A4ECE7542420190e7919C8",
+    "sushiswapPair": "0xFae41E991027aeCcd676a998626b12170ACD79E2",
+    "token0_symbol": "MIC",
+    "token1_symbol": "USDT",
+    "token0_decimals": 18,
+    "token1_decimals": 6
+  }
+]

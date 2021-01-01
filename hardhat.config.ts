@@ -10,6 +10,7 @@ import "./tasks/clean";
 import "@nomiclabs/hardhat-waffle";
 import "hardhat-typechain";
 import "solidity-coverage";
+import "hardhat-tracer";
 
 const chainIds = {
   ganache: 1337,
@@ -55,6 +56,10 @@ const config: HardhatUserConfig = {
   networks: {
     hardhat: {
       chainId: chainIds.hardhat,
+      forking: {
+        url: "https://eth-mainnet.alchemyapi.io/v2/n4u1EtBSi2HL4BywpxDO-ZkEbdH3cMpa",
+        blockNumber: 11564111,
+      },
     },
     goerli: createTestnetConfig("goerli"),
     kovan: createTestnetConfig("kovan"),
@@ -68,14 +73,26 @@ const config: HardhatUserConfig = {
     tests: "./test",
   },
   solidity: {
-    version: "0.7.4",
-    settings: {
-      // https://hardhat.org/hardhat-network/#solidity-optimizer-support
-      optimizer: {
-        enabled: true,
-        runs: 200,
+    compilers: [
+      {
+        version: "0.7.4",
+        settings: {
+          optimizer: {
+            enabled: true,
+            runs: 200000,
+          },
+        },
       },
-    },
+      {
+        version: "0.6.6",
+        settings: {
+          optimizer: {
+            enabled: true,
+            runs: 200000,
+          },
+        },
+      },
+    ],
   },
   typechain: {
     outDir: "typechain",

@@ -1,10 +1,11 @@
 import { Accounts, Signers } from "./";
-import { Greeter } from "../typechain";
+import { Arbitrager, UniswapLikeArbitrager } from "../typechain";
 
 declare module "mocha" {
   export interface Context {
     accounts: Accounts;
-    greeter: Greeter;
     signers: Signers;
+    // greeter: Greeter;
+    arbitrager: UniswapLikeArbitrager;
   }
 }
