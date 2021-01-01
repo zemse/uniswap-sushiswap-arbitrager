@@ -2,13 +2,7 @@
 
 pragma solidity >=0.6.0;
 
-struct Trade {
-    int256 x; // if trade is not profitable x is set as zero
-    int256 y;
-    int256 z;
-}
-
-library UniswapLikeArbitragerLib {
+library ArbitrageUniswapLib {
     function calX(
         uint256 Ares0,
         uint256 Ares1,
@@ -47,6 +41,7 @@ library UniswapLikeArbitragerLib {
         uint256 Bres1
     )
         internal
+        pure
         returns (
             uint256 x,
             uint256 y,

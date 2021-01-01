@@ -5,14 +5,7 @@ import { expect } from "chai";
 import ArbitragerArtifact from "../artifacts/contracts/Arbitrager.sol/Arbitrager.json";
 
 import { Accounts, Signers } from "../types";
-import {
-  Arbitrager,
-  DemoFlash__factory,
-  Arbitrager__factory,
-  UniswapLikeArbitrager__factory,
-  IUniswapV2Factory__factory,
-  IERC20__factory,
-} from "../typechain";
+import { DemoFlash__factory, Arbitrager__factory, IUniswapV2Factory__factory, IERC20__factory } from "../typechain";
 // import { shouldBehaveLikeGreeter } from "./Greeter.behavior";
 
 const { deployContract } = waffle;
@@ -67,7 +60,7 @@ describe("Unit tests", function () {
     beforeEach(async function () {
       console.log("deploying Arbitrager");
       // this.arbitrager = (await deployContract(this.signers.hunter, ArbitragerArtifact)) as Arbitrager;
-      this.arbitrager = await new UniswapLikeArbitrager__factory(this.signers.hunter).deploy();
+      this.arbitrager = await new Arbitrager__factory(this.signers.hunter).deploy();
       global._tracer_address_names[this.arbitrager.address] = "Arbitrager";
     });
 
