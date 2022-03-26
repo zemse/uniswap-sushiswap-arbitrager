@@ -1,80 +1,13 @@
-# Solidity Template
+# Uniswap Sushiswap Arbitrager
 
-My favourite setup for writing Solidity smart contracts.
+Finds profitable opportunities on ethereum mainnet to arbitrage two pairs of same tokens, each on UniswapV2 and Sushiswap, without any capital investment i.e. performing flash swap (tx gas fees needed obviously).
 
-- [Hardhat](https://github.com/nomiclabs/hardhat): compile and run the smart contracts on a local development network
-- [TypeChain](https://github.com/ethereum-ts/TypeChain): generate TypeScript types for smart contracts
-- [Ethers](https://github.com/ethers-io/ethers.js/): renowned Ethereum library and wallet implementation
-- [Waffle](https://github.com/EthWorks/Waffle): tooling for writing comprehensive smart contract tests
-- [Solhint](https://github.com/protofire/solhint): linter
-- [Solcover](https://github.com/sc-forks/solidity-coverage) code coverage
-- [Prettier Plugin Solidity](https://github.com/prettier-solidity/prettier-plugin-solidity): code formatter
+## Involves following programs:
 
-This is a GitHub template, which means you can reuse it as many times as you want. You can do that by clicking the "Use this
-template" button at the top of the page.
+1. Math calculation worked out using Calculus implemented in [Solidity](https://github.com/zemse/uniswap-sushiswap-arbitrager/blob/main/contracts/ArbitrageUniswapLib.sol), [TypeScript](https://github.com/zemse/uniswap-sushiswap-arbitrager/blob/main/scripts/arbitrage-lib.ts)).
+2. NodeJs program to scan the arbitrage opportunities, implemention [find-arbitrage.ts](https://github.com/zemse/uniswap-sushiswap-arbitrager/blob/main/scripts/find-arbitrage.ts).
+3. Solidity contract to execute the flash arbitrage (flash swap + normal swap) [Arbitrager.sol](https://github.com/zemse/uniswap-sushiswap-arbitrager/blob/main/contracts/Arbitrager.sol).
 
-## Usage
+## Notes:
 
-### Pre Requisites
-
-Before running any command, make sure to install dependencies:
-
-```sh
-$ yarn install
-```
-
-### Compile
-
-Compile the smart contracts with Hardhat:
-
-```sh
-$ yarn compile
-```
-
-### TypeChain
-
-Compile the smart contracts and generate TypeChain artifacts:
-
-```sh
-$ yarn build
-```
-
-### Lint Solidity
-
-Lint the Solidity code:
-
-```sh
-$ yarn lint:sol
-```
-
-### Lint TypeScript
-
-Lint the TypeScript code:
-
-```sh
-$ yarn lint:ts
-```
-
-### Test
-
-Run the Mocha tests:
-
-```sh
-$ yarn test
-```
-
-### Coverage
-
-Generate the code coverage report:
-
-```sh
-$ yarn coverage
-```
-
-### Clean
-
-Delete the smart contract artifacts, the coverage reports and the Hardhat cache:
-
-```sh
-$ yarn clean
-```
+IMP: If this transaction is posted to mempool, it will be frontrun in no time ([flashbots](https://docs.flashbots.net), [Ethereum is a dark forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)). Please do not use this in production, unless you know what you're doing.
